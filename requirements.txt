@@ -1,0 +1,23 @@
+# ── Core LangGraph / LangChain ─────────────────────────────
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-groq>=0.2.0
+langchain-chroma>=0.1.4
+langchain-text-splitters>=0.3.0
+langchain-community>=0.3.0
+langgraph>=0.2.50
+
+# ── Vector DB ───────────────────────────────────────────────
+chromadb>=0.5.0
+
+# ── Embeddings (local, free, no API key) ────────────────────
+sentence-transformers>=3.0.0
+
+# ── Web Search ──────────────────────────────────────────────
+duckduckgo-search>=6.0.0
+
+# ── UI ──────────────────────────────────────────────────────
+streamlit>=1.35.0
+
+# ── Utilities ───────────────────────────────────────────────
+python-dotenv>=1.0.0
